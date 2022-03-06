@@ -14,5 +14,5 @@ titles_from_headings:
   collections: true 
 
 #Colors site
-link-col: #DD003F
-hover-col: #AEDD00
+link-col: "#DD003F"
+hover-col: "#AEDD00"
