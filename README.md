@@ -9,6 +9,7 @@ Este es un curso introductorio de bases de datos relacionales, el cual abarca lo
 - `src`: Código fuente elaborado en clases.
 - `presentaciones`: Presentaciones de las clases.
 - `ejemplos`: Los ejemplos de los temas.
+- `notas`: Las notas de las clases.
 
 ## Licencia
 

@@ -8,9 +8,9 @@ Este es un curso introductorio de bases de datos relacionales, el cual abarca lo
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
-| Semanas | Tema | Presentación | Ejercicios | Código |
+| Semanas | Tema | Presentaciones | Notas | Ejercicios |
 | :------------- | :-------- | :--------: | :--------: |  :--------: | :--------: |
-1 | Introducción a las bases de datos | <a href=".\presentaciones\01-intro.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> |  |
+1 | Introducción a las bases de datos | <a href=".\presentaciones\01-intro.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notes\01-intro.pdf"><span class="fa fa-solid fa-notes" aria-hidden="true"></span></a> | |
 2,4 | Diseño conceptual |
 5,6 | Diseño lógico |
 6,7,8 | Uso básico de SQL |
@@ -21,4 +21,4 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 15 | Transacciones |
 15, 16 | Control de la concurrencia |
 
-<!--  <a href=".\presentaciones\01-Fundamentos.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> | -->
+<!--  <a href=".\presentaciones\AAAAAAAAAA.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> | -->
