@@ -16,3 +16,7 @@ titles_from_headings:
 #Colors site
 link-col: "#DD003F"
 hover-col: "#AEDD00"
+
+navbar-links:
+  Clases: "class"
+  # Banco Examenes: "banco_examenes"
