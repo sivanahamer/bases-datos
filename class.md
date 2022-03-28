@@ -5,6 +5,7 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 | Semanas | Tema | Presentaciones | Notas | Ejercicios |
 | :------------- | :-------- | :--------: | :--------: |  :--------: | :--------: |
 1 | Introducción a las bases de datos |
+2 | Requerimientos de datos |
 2,4 | Diseño conceptual |
 5,6 | Diseño lógico |
 6,7,8 | Uso básico de SQL |
