@@ -27,11 +27,11 @@ A continuación, viene el detalle de lo que se va a realizar en las clases con s
 | :------------- | :-------- | :-------- |
 | M 29 Marzo | ❌ | 📖 Carta al estudiante |
 | V 1 Abril | ❔ | 👩🏻‍🏫 Introducción a las bases de datos |
-| M 5 Abril | ✔️ | 👩🏻‍🏫 Diseño conceptual |
-| V 8 Abril | ❔ | ✏️ Diseño conceptual |
+| M 5 Abril | ❔ | 👩🏻‍🏫 Requerimientos de datos + Diseño conceptual |
+| V 8 Abril | ❔ | 👩🏻‍🏫 Diseño conceptual <br> ✏️ Diseño conceptual |
 | M 12 Abril | | 🏖️ Semana santa |
 | V 15 Abril | | 🏖️ Semana santa |
-| M 19 Abril | ❔ | 👩🏻‍🏫 Diseño conceptual <br> ✏️ Diseño conceptual |
+| M 19 Abril | ❔ | ✏️ Diseño conceptual |
 | V 23 Abril | ❔ | ✏️ Diseño conceptual |
 | M 26 Abril | ❔ | 👩🏻‍🏫 Diseño lógico |
 | V 30 Abril | ❔ | ✏️ Diseño lógico |
