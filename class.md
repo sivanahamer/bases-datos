@@ -34,10 +34,10 @@ A continuación, viene el detalle de lo que se va a realizar en las clases. Se i
 | M 19 Abril | ✏️ Diseño conceptual |
 | V 23 Abril | ✏️ Diseño conceptual |
 | M 26 Abril | 👩🏻‍🏫 Diseño lógico |
-| V 30 Abril | 📚 Semena U - Día docente |
-| M 3 Mayo | ✏️ Diseño lógico |
-| V 6 Mayo | ✏️ Diseño lógico |
+| V 30 Abril | ✏️ Diseño lógico  |
+| M 3 Mayo | ✏️ Diseño lógico | |
+| V 6 Mayo | 👐🏻 Uso básico de SQL |
 | M 10 Mayo | 👐🏻 Uso básico de SQL |
 | V 13 Mayo | 👐🏻 Uso básico de SQL |
 | M 17 Mayo | 👐🏻 Uso básico de SQL |
-| V 20 Mayo | 👐🏻 Uso básico de SQL |
+| V 20 Mayo | 👐🏻 Uso avanzado de SQL |
