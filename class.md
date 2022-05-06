@@ -7,8 +7,8 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 1 | Introducción a las bases de datos | <a href=".\presentaciones\01-intro.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\01-intro.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | |
 2,4 | Diseño conceptual | <a href=".\presentaciones\02-conceptual-er.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> <a href=".\presentaciones\02-conceptual-eer.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\02-conceptual-er.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> <a href=".\notas\02-conceptual-eer.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\02-conceptual.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
 5,6 | Diseño lógico | <a href=".\presentaciones\03-relational.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\03-relational.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\03-logical.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
-6,7,8 | Uso básico de SQL |
-8,9,10 | Uso avanzado de SQL |
+6,7 | Uso básico de SQL | <a href=".\presentaciones\04-sql.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\04-sql-basic.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\04-sql.sql"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
+7,8,9,10 | Uso avanzado de SQL |
 11 | Evaluación de la calidad del diseño |
 12 | Organización física de archivos |
 13,14 | Optimización de consultas |
@@ -38,6 +38,6 @@ A continuación, viene el detalle de lo que se va a realizar en las clases. Se i
 | M 3 Mayo | ✏️ Diseño lógico | |
 | V 6 Mayo | 👐🏻 Uso básico de SQL |
 | M 10 Mayo | 👐🏻 Uso básico de SQL |
-| V 13 Mayo | 👐🏻 Uso básico de SQL |
-| M 17 Mayo | 👐🏻 Uso básico de SQL |
+| V 13 Mayo | 👐🏻 Uso avanzado de SQL |
+| M 17 Mayo | 👐🏻 Uso avanzado de SQL |
 | V 20 Mayo | 👐🏻 Uso avanzado de SQL |
