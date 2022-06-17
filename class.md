@@ -10,10 +10,10 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 6,7 | Uso básico de SQL | <a href=".\presentaciones\04-sql.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\04-sql-basic.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\04-sql.sql"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
 7,8,9 | Uso avanzado de SQL | <a href=".\presentaciones\05-sql.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\05-sql-advanced.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\05-sql.sql"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
 10,11 | Evaluación de la calidad del diseño | <a href=".\presentaciones\06-quality.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\06-quality.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |  |
-12 | Organización física de archivos |
-13,14 | Optimización de consultas |
+12,13 | Organización física de archivos | <a href=".\presentaciones\07-physical.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\07-physical.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |  |
+14,15 | Optimización de consultas |
 15 | Transacciones |
-15,16 | Control de la concurrencia |
+16,17 | Control de la concurrencia |
 
 <!-- <a href=".\notas\03-relational.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> -->
 <!--  <a href=".\presentaciones\AAAAAAAAAA.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-pen" aria-hidden="true"></span></a> | <a href="YOUTUBE VIDEO"><span class="fa fa-solid fa-code" aria-hidden="true"></span></a> | -->
