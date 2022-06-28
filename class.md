@@ -11,7 +11,7 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 7,8,9 | Uso avanzado de SQL | <a href=".\presentaciones\05-sql.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\05-sql-advanced.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\05-sql.sql"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
 10,11 | Evaluación de la calidad del diseño | <a href=".\presentaciones\06-quality.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\06-quality.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\06-quality.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
 12,13 | Organización física de archivos | <a href=".\presentaciones\07-physical.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\07-physical.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |  |
-14,15 | Optimización de consultas |
+14,15 | Optimización de consultas | <a href=".\presentaciones\08-optimization.pdf"><span class="fa fa-regular fa-file-powerpoint" aria-hidden="true"></span></a> | <a href=".\notas\08-algebra.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> <a href=".\notas\09-processing.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> | <a href=".\ejemplos\08-processing.pdf"><span class="fa fa-sticky-note" aria-hidden="true"></span></a> |
 15 | Transacciones |
 16,17 | Control de la concurrencia |
 
