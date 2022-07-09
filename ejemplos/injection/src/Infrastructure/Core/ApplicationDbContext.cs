@@ -11,26 +11,33 @@ namespace UCR.Infrastructure.Core
     public class ApplicationDbContext : DbContext, IUnitOfWork
     {
         private readonly ILogger<ApplicationDbContext> _logger;
+
         private IDbContextTransaction? _currentTransaction;
-        public IDbContextTransaction? GetCurrentTransaction() =>
-        _currentTransaction;
+
+        public IDbContextTransaction? GetCurrentTransaction() => _currentTransaction;
+
         public bool HasActiveTransaction => _currentTransaction != null;
+
+
         public ApplicationDbContext(DbContextOptions options, ILogger<ApplicationDbContext> logger) : base(options)
         {
             _logger = logger;
         }
-        public async Task SaveEntitiesAsync(CancellationToken cancellationToken
-        = default(CancellationToken))
+
+
+        public async Task SaveEntitiesAsync(CancellationToken cancellationToken = default(CancellationToken))
         {
             // After executing this line all the changes
             // performed through the DbContext will be committed
             await base.SaveChangesAsync(cancellationToken);
         }
+
         public async Task BeginTransactionAsync()
         {
             if (_currentTransaction != null) return;
             _currentTransaction = await Database.BeginTransactionAsync();
         }
+
         public async Task CommitTransactionAsync()
         {
             if (_currentTransaction == null) throw new
@@ -54,6 +61,7 @@ namespace UCR.Infrastructure.Core
                 }
             }
         }
+
         public void RollbackTransaction()
         {
             try
