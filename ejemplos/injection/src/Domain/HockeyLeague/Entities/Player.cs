@@ -6,10 +6,12 @@ namespace UCR.Domain.HockeyLeague.Entities
     public class Player : Entity
     {
         public RequiredString Name { get; }
+
         public Team? Team { get; private set; }
+
         public JerseyNumber JerseyNumber { get; }
-        public Player(RequiredString name, Team? team, JerseyNumber
-        jerseyNumber)
+
+        public Player(RequiredString name, Team? team, JerseyNumber jerseyNumber)
         {
             Name = name;
             Team = team;

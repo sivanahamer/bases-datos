@@ -13,8 +13,7 @@ namespace UCR.Domain.HockeyLeague.ValueObjects
         {
             Number = number;
         }
-        public static Validation<ValidationError, JerseyNumber> TryCreate(int?
-        number)
+        public static Validation<ValidationError, JerseyNumber> TryCreate(int? number)
         {
             if (number is null)
                 return new NumberIsNull();
@@ -29,13 +28,19 @@ namespace UCR.Domain.HockeyLeague.ValueObjects
         {
             yield return Number;
         }
+
         public override string ToString()
         {
             return Number.ToString();
         }
+
         public abstract record ValidationError;
+
         public record NumberIsNull : ValidationError;
+
         public record NumberTooSmall(int MinNumber) : ValidationError;
+
         public record NumberTooBig(int MaxNumber) : ValidationError;
+
     }
 }
