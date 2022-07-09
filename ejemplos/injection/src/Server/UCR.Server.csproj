@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\UCR.Domain.csproj" />
+    <ProjectReference Include="..\Application\UCR.Application.csproj" />
+    <ProjectReference Include="..\Infrastructure\UCR.Infrastructure.csproj" />
+    <ProjectReference Include="..\Presentation\UCR.Presentation.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
