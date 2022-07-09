@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using UCR.Infrastructure;
+using UCR.Application;
+
 namespace UCR.Server
 {
     public class Startup
@@ -19,6 +21,8 @@ namespace UCR.Server
             services.AddServerSideBlazor();
             services.AddInfrastructureLayer(
             Configuration.GetConnectionString("DefaultConnection"));
+            services.AddApplicationLayer();
+
 
         }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
