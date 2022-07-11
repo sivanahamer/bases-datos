@@ -1,8 +1,8 @@
-﻿using UCR.Application.HockeyLeague;
-using UCR.Application.HockeyLeague.Implementations;
+using Lab2.Application.HockeyLeague;
+using Lab2.Application.HockeyLeague.Implementations;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace UCR.Application
+namespace Lab2.Application
 {
     public static class DependencyInjection
     {

@@ -1,0 +1,38 @@
+﻿@using Domain.HockeyLeague.Entities
+@using Domain.HockeyLeague.ValueObjects
+@using UCR.Presentation.HockeyLeague.Models.HockeyLeague
+@using UCR.Presentation.HockeyLeague.Validators.HockeyLeague
+@using LanguageExt
+
+<EditForm OnValidSubmit="HandleSubmit" Model="@Model">
+	<FluentValidationValidator />
+	<h3>Add a player</h3>
+	<ValidationSummary />
+	<div class="form-group">
+		<label>Name</label>
+		<InputText @bind-Value="Model.Name" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label>Jersey</label>
+		<InputNumber @bind-Value="Model.Jersey" class="form-control" />
+	</div>
+	<button class="btn btn-primary" type="submit">Add</button>
+</EditForm>
+@code {
+	[Parameter]
+	public EventCallback<Player> OnValidSubmit { get; set; }
+	[Parameter]
+	public Team Team { get; set; } = null!;
+	private PlayerModel Model { get; set; } = new();
+	private async Task HandleSubmit()
+	{
+		// we don't check for validation errors since the model has already been validated
+		// by the EditForm component.
+		var player = new Player( RequiredString.TryCreate(Model.Name).Success(), Team, JerseyNumber.TryCreate(Model.Jersey).Success());
+
+		await OnValidSubmit.InvokeAsync(player);
+
+		// reset the form
+		Model = new PlayerModel();
+	}
+}

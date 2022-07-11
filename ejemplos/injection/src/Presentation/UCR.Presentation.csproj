@@ -12,12 +12,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Blazored.FluentValidation" Version="2.0.3" />
+    <PackageReference Include="FluentValidation" Version="11.1.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.1.2" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.6" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Domain\UCR.Domain.csproj" />
     <ProjectReference Include="..\Application\UCR.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\Pages\" />
   </ItemGroup>
 
 </Project>

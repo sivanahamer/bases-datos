@@ -1,0 +1,96 @@
+@page "/teams/{TeamId}"
+
+@using Lab2.Application.HockeyLeague
+@using Lab2.Domain.HockeyLeague.Entities
+@using Lab2.Presentation.HockeyLeague.Components
+
+@inject ITeamService TeamService;
+
+<div class="container">
+    <Loading IsLoading="_isLoading">
+        @if (_team is null)
+        {
+            <h4 class="text-danger">The team you searched for could not be found.</h4>
+        }
+        else
+        {
+            @if (_rosterErrorMessage is not null)
+            {
+                <Alert Color="Alert.AlertColor.Danger">
+                    @_rosterErrorMessage
+                </Alert>
+            }
+            <TeamRoster Team="_team" OnDelete="HandlePlayerDelete"/>
+        }
+        @if (_playerFormMessage is not null)
+        {
+            <Alert Color="_playerFormAlertColor">
+                @_playerFormMessage
+            </Alert>
+        }
+        <PlayerForm OnValidSubmit="@HandlePlayerSubmit" Team="_team"/>
+    </Loading>
+</div>
+
+@code {
+
+    [Parameter]
+    public string? TeamId { get; set; }
+    private Team? _team;
+    private bool _isLoading = true;
+    private string? _playerFormMessage = null;
+    private Alert.AlertColor _playerFormAlertColor = Alert.AlertColor.Danger;
+    private string? _rosterErrorMessage = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadTeam();
+        _isLoading = false;
+    }
+
+    public async Task LoadTeam()
+    {
+        _team = await TeamService.GetTeamByIdAsync((string)TeamId);
+    }
+
+    private async Task HandlePlayerSubmit(Player player)
+    {
+        _playerFormMessage = null;
+
+        try
+        {
+            await TeamService.AddPlayerToTeamRosterAsync(_team!, player);
+            _playerFormMessage = "Player added.";
+            _playerFormAlertColor = Alert.AlertColor.Success;
+        }
+        catch (DomainException e)
+        {
+            _playerFormMessage = e.Message;
+        }
+        catch (Exception)
+        {
+            _playerFormMessage = "An error ocurred. Please try again later.";
+            _playerFormAlertColor = Alert.AlertColor.Danger;
+        }
+    }
+
+    private async Task HandlePlayerDelete(Player player)
+    {
+        _rosterErrorMessage = null;
+
+        try
+        {
+            await TeamService.DeletePlayerAndRemoveFromTeamRosterAsync(_team!, player);
+        }
+        catch (DomainException e)
+        {
+            _rosterErrorMessage = e.Message;
+        }
+        catch (Exception)
+        {
+            _rosterErrorMessage = "An error occurred. Please try again later.";
+        }
+
+    }
+
+}
