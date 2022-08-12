@@ -4,13 +4,13 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 
 | Semanas | Tema |
 | :------------- |:------------- |
-1 | Introducción a las bases de datos |
-2,4 | Diseño conceptual |
-5,6 | Diseño lógico |
-6,7 | Uso básico de SQL |
-7,8,9 | Uso avanzado de SQL |
-10,11 | Evaluación de la calidad del diseño |
-12,13 | Organización física de archivos |
-14,15 | Optimización de consultas |
-16 | Transacciones |
-16,17 | Control de la concurrencia |
+1 | [Introducción a las bases de datos](01-Introducción\README.md) |
+2,3 | [Diseño conceptual](02-Diseño_conceptual\README.md) |
+4,5 | [Diseño lógico](03-Diseño_lógico\README.md) |
+5,6 | [Uso básico de SQL](04-SQL_básico\README.md) |
+7,8,9 | [Uso avanzado de SQL](05-SQL_avanzado\README.md) |
+9,10 | Evaluación de la calidad del diseño |
+11,12 | Organización física de archivos |
+13,14 | Optimización de consultas |
+15 | Transacciones |
+15,16 | Control de la concurrencia |
