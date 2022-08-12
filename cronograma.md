@@ -3,7 +3,7 @@
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
 | Semanas | Tema |
-| :------------- |
+| :------------- |:------------- |
 1 | Introducción a las bases de datos |
 2,4 | Diseño conceptual |
 5,6 | Diseño lógico |
