@@ -4,7 +4,7 @@ Luego de crear un diseño conceptual, se tiene que **mapear a un diseño lógico
 
 ## Presentaciones
 
-Pendiente
+- [Diseño lógico: Modelo Relacional](https://github.com/sivanahamer/bases-datos/blob/main/02-Dise%C3%B1o_l%C3%B3gico/pres/03-relational.pdf)
 
 ## Material suplemental
 
