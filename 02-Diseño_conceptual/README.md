@@ -11,8 +11,8 @@ Por lo tanto, las bases de datos siguen el mismo ciclo que cualquier artefacto d
 
 ## Presentaciones
 
-- [Diseño conceptual: Entidad Relación](https://github.com/sivanahamer/bases-datos/02-Diseño_conceptual/pres/02-er.pdf)
-- [Diseño conceptual: Entidad Relación Extendido](https://github.com/sivanahamer/bases-datos/02-Diseño_conceptual/pres/02.5-eer.pdf)
+- [Diseño conceptual: Entidad Relación](https://github.com/sivanahamer/bases-datos/blob/main/02-Dise%C3%B1o_conceptual/pres/02-er.pdf)
+- [Diseño conceptual: Entidad Relación Extendido](https://github.com/sivanahamer/bases-datos/blob/main/02-Dise%C3%B1o_conceptual/pres/02.5-eer.pdf)
 
 ## Material suplemental
 
