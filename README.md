@@ -22,11 +22,11 @@ Debajo viene el cronograma preliminar de los temas que puede actualizarse durant
 4,5 | [Diseño lógico](03-Diseño_lógico\README.md) |
 5,6 | [Uso básico de SQL](04-SQL_básico\README.md) |
 7,8,9 | [Uso avanzado de SQL](05-SQL_avanzado\README.md) |
-9,10 | Evaluación de la calidad del diseño |
-11,12 | Organización física de archivos |
-13,14 | Optimización de consultas |
-15 | Transacciones |
-15,16 | Control de la concurrencia |
+9,10 |  [Evaluación de la calidad del diseño](06-Calidad\README.md) |
+11,12 | [Organización física de archivos](07-Fisico\README.md) |
+13,14 | [Optimización de consultas](08-Optimización\README.md) |
+15 | [Transacciones](09-Transacciones\README.md) |
+15,16 | [Control de la concurrencia](10-Concurrencia\README.md) |
 
 ## Licencia
 
