@@ -6,6 +6,10 @@ Basado en nuestro diseño lógico, podemos implementar la base de datos por medi
 
 - [SQL básico](https://github.com/sivanahamer/bases-datos/blob/main/04-SQL_básico/pres/04-sql.pdf)
 
+## Código
+
+[SQL](https://github.com/sivanahamer/bases-datos/blob/main/04-SQL_b%C3%A1sico/src/FirstProgram.sl.sql ':include :type=code text')
+
 ## Material suplemental
 
 Se recomienda ver los siguientes materiales para repasar el contenido visto en clases.
