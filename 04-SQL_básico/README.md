@@ -8,7 +8,7 @@ Basado en nuestro diseño lógico, podemos implementar la base de datos por medi
 
 ## Código
 
-[SQL](https://github.com/sivanahamer/bases-datos/blob/main/04-SQL_b%C3%A1sico/src/FirstProgram.sl.sql ':include :type=code text')
+El código sale en [aquí.](https://github.com/sivanahamer/bases-datos/blob/main/04-SQL_b%C3%A1sico/src/FirstProgram.sl.sql)
 
 ## Material suplemental
 
