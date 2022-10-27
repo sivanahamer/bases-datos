@@ -2,7 +2,6 @@
 
 Con el diseño de una base de datos, existen algunas **guías informales** para asegurar que se tiene buena calidad. Además, estas reglas se basan en evitar la redundancia por medio de la **normalización**.
 
-
 ## Presentaciones
 
 - [Evaluación de la calidad del diseño](https://github.com/sivanahamer/bases-datos/blob/main/06-Calidad/pres/06-quality.pdf)

@@ -7,6 +7,6 @@
 * [SQL Avanzado](05-SQL_avanzado\README.md)
 * [Calidad diseño](06-Calidad\README.md)
 * [Organización física](07-Fisico\README.md)
-* [Optimización](08-Optimización\README.md)
+* [Optimización](08-Optimizacion\README.md)
 * [Transacciones](09-Transacciones\README.md)
 * [Concurrencia](10-Concurrencia\README.md)
