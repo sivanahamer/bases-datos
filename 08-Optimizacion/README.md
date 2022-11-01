@@ -15,3 +15,4 @@ Se recomienda ver los siguientes materiales para repasar el contenido visto en c
 - [Relational algebra](https://www.youtube.com/watch?v=tii7xcFilOA&list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3&index=9)
 - [SQL - Execution Plans](https://bertwagner.com/category/sql/performance-tuning/execution-plans.html)
 - [SQL Server Indexes](https://www.sqlservertutorial.net/sql-server-indexes/)
+- [SQL Database Performance Tuning for Developers](https://www.toptal.com/sql-server/sql-database-tuning-for-developers)
