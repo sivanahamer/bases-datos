@@ -15,21 +15,21 @@ Curso de [Bases de datos](https://www.ecci.ucr.ac.cr/cursos/ci-0127) de la [Univ
 
 Debajo viene el cronograma preliminar de los temas que puede actualizarse durante el desarrollo del semestre. Cada enlace adjunta los materiales asociados.
 
-| Semanas | Tema |
-| :------------- |:------------- |
-1 | [Introducción a las bases de datos](01-Introducción\README.md) |
-2,3 | [Diseño conceptual](02-Diseño_conceptual\README.md) |
-4,5 | [Diseño lógico](03-Diseño_lógico\README.md) |
-5,6 | [Uso básico de SQL](04-SQL_básico\README.md) |
-7,8,9 | [Uso avanzado de SQL](05-SQL_avanzado\README.md) |
-9,10 |  [Evaluación de la calidad del diseño](06-Calidad\README.md) |
-11,12 | [Organización física de archivos](07-Fisico\README.md) |
-13,14 | [Optimización de consultas](08-Optimización\README.md) |
-15 | [Transacciones](09-Transacciones\README.md) |
-15,16 | [Control de la concurrencia](10-Concurrencia\README.md) |
+| Semanas | Tema                                                          |
+| :------ | :------------------------------------------------------------ |
+| 1       | [Introducción a las bases de datos](01-Introducción\README.md) |
+| 2,3     | [Diseño conceptual](02-Diseño_conceptual\README.md)            |
+| 5,6     | [Diseño lógico](03-Diseño_lógico\README.md)                  |
+| 7,8     | [Uso básico de SQL](04-SQL_básico\README.md)                   |
+| 8,9,10   | [Uso avanzado de SQL](05-SQL_avanzado\README.md)                 |
+| 11    | [Evaluación de la calidad del diseño](06-Calidad\README.md)    |
+| 12,13,14   | [Organización física de archivos](07-Fisico\README.md)         |
+| 12,13,14   | [Optimización de consultas](08-Optimización\README.md)         |
+| 15      | [Transacciones](09-Transacciones\README.md)                      |
+| 15,16   | [Control de la concurrencia](10-Concurrencia\README.md)          |
 
 ## Licencia
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+This work is licensed under a `<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License`</a>`
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
