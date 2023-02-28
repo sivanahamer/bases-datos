@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+sidebar_label: 'SQL avanzado'
+---
+
 # Uso avanzado de SQL
 
 Podemos utilizar SQL para hacer distintos tipos de consultas. Sin embargo, podemos hacer consultas mucho más complejas en SQL por medio de JOINs, SELECTs anidados, triggers y otras funcionalidades adicionales. Además, se va a discutir sobre problemas de seguridad en SQL por medio de inyección de código.

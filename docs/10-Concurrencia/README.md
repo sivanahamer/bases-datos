@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+sidebar_label: 'Control de concurrencia'
+---
+
 # Control de la concurrencia
 
 Work in progress...

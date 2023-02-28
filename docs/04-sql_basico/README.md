@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: 'SQL básico'
+---
+
 # Uso básico de SQL
 
 Basado en nuestro diseño lógico, podemos implementar la base de datos por medio de **SQL** (Structured Query Language). Con este lenguaje, podemos **definir** nuestro esquema de bases de datos. Además, podemos **manipular** datos almacenados dentro de la base de datos para agregarlos, seleccionarlos, actualizarlos y borrarlos. Estas son operaciones CRUD (Create Retrieve Update Delete).

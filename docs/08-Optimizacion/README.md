@@ -1,3 +1,8 @@
+---
+sidebar_position: 9
+sidebar_label: 'Optimización'
+---
+
 # Optimización de consultas
 
 Realizar una consulta óptima dentro de una base de datos es sumamente importante. Los DBMS utilizan ciertas técnicas que se basan en heurísticas y estimaciones basadas en costos. La primera se basa en álgebra relacional de bases de datos, mientras que la segunda se basa en estimar costos de distintas operaciones utilizando distintas estructuras de almacenamiento físico (puede ser o no estructuras auxiliares).

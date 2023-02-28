@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: 'Diseño conceptual'
+---
+
 # Diseño conceptual
 
 En el **ciclo de desarrollo** tenemos las siguientes etapas:

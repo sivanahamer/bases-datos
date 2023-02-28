@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+sidebar_label: 'Calidad del diseño'
+---
+
 # Evaluación de la calidad del diseño
 
 Con el diseño de una base de datos, existen algunas **guías informales** para asegurar que se tiene buena calidad. Además, estas reglas se basan en evitar la redundancia por medio de la **normalización**.

@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: 'Diseño lógico'
+---
+
 # Diseño lógico
 
 Luego de crear un diseño conceptual, se tiene que **mapear a un diseño lógico** para que se pueda implementar en un DBMS particular. Para ello, vamos a ocupar un modelo lógico, que en nuestro caso es el **modelo relacional**.

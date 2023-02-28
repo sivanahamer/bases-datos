@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+sidebar_label: 'Organización física'
+---
+
 # Organización física de archivos
 
 Si bien cuando usamos las bases de datos no detallamos cómo es que se guardan los datos dentro de ella, los DBMS hacen uso de un diseño físico. Generalmente este diseño físico está basado en disco duro. Principalmente, los DBMS utilizan cuatro conceptos importantes: archivos, páginas, registros y campos de datos. Además, utilizan dos tipos de estructuras auxiliares basadas en índices para ayudar a realizar búsquedas más rápidas las cuales son: índices ordenados e índices multinivel. Cada uno de estos índices tiene distintas variaciones.
