@@ -9,7 +9,7 @@ Work in progress...
 
 ## Presentaciones
 
-- [Transacciones](https://github.com/sivanahamer/bases-datos/blob/main/09-Transacciones/pres/09-transactions.pdf)
+- [Transacciones](https://github.com/sivanahamer/bases-datos/blob/main/docs/09-Transacciones/pres/09-transactions.pdf)
 
 ## Material suplemental
 

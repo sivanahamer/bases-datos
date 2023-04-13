@@ -9,7 +9,7 @@ Realizar una consulta óptima dentro de una base de datos es sumamente important
 
 ## Presentaciones
 
-- [Optimización de consultas](https://github.com/sivanahamer/bases-datos/blob/main/08-Optimizacion/pres/08-optimizacion.pdf)
+- [Optimización de consultas](https://github.com/sivanahamer/bases-datos/blob/main/docs/08-Optimizacion/pres/08-optimizacion.pdf)
 
 ## Material suplemental
 

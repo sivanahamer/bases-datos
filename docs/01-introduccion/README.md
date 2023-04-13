@@ -17,7 +17,7 @@ En este tema buscamos introducir el tema de bases de datos respondiendo las sigu
 
 ## Presentaciones
 
-- [Introducción a las Bases de Datos](https://github.com/sivanahamer/bases-datos/blob/main/01-Introducci%C3%B3n/pres/01-intro.pdf)
+- [Introducción a las Bases de Datos](https://github.com/sivanahamer/bases-datos/blob/main/docs/01-introduccion/pres/01-intro.pdf)
 
 ## Material suplemental
 

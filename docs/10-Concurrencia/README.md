@@ -9,7 +9,7 @@ Work in progress...
 
 ## Presentaciones
 
-- [Control de la concurrencia](https://github.com/sivanahamer/bases-datos/blob/main/10-Concurrencia/pres/10-concurrency.pdf)
+- [Control de la concurrencia](https://github.com/sivanahamer/bases-datos/blob/main/docs/10-Concurrencia/pres/10-concurrency.pdf)
 
 ## Material suplemental
 

@@ -9,7 +9,7 @@ Si bien cuando usamos las bases de datos no detallamos cómo es que se guardan l
 
 ## Presentaciones
 
-- [Organización física de archivos](https://github.com/sivanahamer/bases-datos/blob/main/07-Fisico/pres/07-physical.pdf)
+- [Organización física de archivos](https://github.com/sivanahamer/bases-datos/blob/main/docs/07-Fisico/pres/07-physical.pdf)
 
 ## Material suplemental
 

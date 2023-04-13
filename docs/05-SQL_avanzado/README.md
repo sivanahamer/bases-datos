@@ -9,12 +9,12 @@ Podemos utilizar SQL para hacer distintos tipos de consultas. Sin embargo, podem
 
 ## Presentaciones
 
-- [SQL Avanzado](https://github.com/sivanahamer/bases-datos/blob/main/05-SQL_avanzado/pres/05-sql.pdf)
-- [SQL Injection](https://github.com/sivanahamer/bases-datos/blob/main/05-SQL_avanzado/pres/05.5-sql-injection.pdf)
+- [SQL Avanzado](https://github.com/sivanahamer/bases-datos/blob/main/docs/05-SQL_avanzado/pres/05-sql.pdf)
+- [SQL Injection](https://github.com/sivanahamer/bases-datos/blob/main/docs/05-SQL_avanzado/pres/05.5-sql-injection.pdf)
 
 ## Código
 
-El código sale en [aquí.](https://github.com/sivanahamer/bases-datos/blob/main/05-SQL_avanzado/src/Scripts.sql)
+El código sale en [aquí.](https://github.com/sivanahamer/bases-datos/blob/main/docs/05-SQL_avanzado/src/Scripts.sql)
 
 ## Material suplemental
 
